@@ -1,2 +1,2 @@
-# Barbearia Alura
+# Barbearia Alura.
  Primeiro Repositorio Barbearia
